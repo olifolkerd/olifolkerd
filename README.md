@@ -1,8 +1,8 @@
 Hi 👋 My name is Oli Folkerd
 ============================
 
-Head of Development at Event Engineering Ltd
---------------------------------------------
+### Head of Development at Event Engineering Ltd
+
 
 Builder of crazy contraptions,Tabulator tinkerer
 
