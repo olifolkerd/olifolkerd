@@ -9,8 +9,9 @@ Builder of crazy contraptions,Tabulator tinkerer
 *   🌍  I'm based in England
 *   💬  Ask me about Tabulator JavaScript Tables
 *   🚀  I'm currently working on [Tabulator](http://tabulator.info)
-*   🤝  I'm open to collaborating on interesting projects<a href="https://www.github.com/olifolkerd" target="_blank" rel="noreferrer"><img
-                  src="https://img.shields.io/github/followers/olifolkerd?logo=github&style=for-the-badge&color=10b981&labelColor=1c1917" /></a>
+*   🤝  I'm open to collaborating on interesting project
+
+s<a href="https://www.github.com/olifolkerd" target="_blank" rel="noreferrer"><img src="https://img.shields.io/github/followers/olifolkerd?logo=github&style=for-the-badge&color=10b981&labelColor=1c1917" /></a>
                   
 ### Skills 
 <p align="left">
