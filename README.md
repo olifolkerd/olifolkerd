@@ -1,9 +1,6 @@
 Hi 👋 My name is Oli Folkerd
 ============================
 
-Director of Development & IT at Cavendish Consulting
-
-
 Builder of crazy contraptions,Tabulator tinkerer
 
 *   🌍  I'm based in England
